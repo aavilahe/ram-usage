@@ -1,0 +1,9 @@
+{
+    "name": "ram-usage",
+    "description": "Shows ram usage.",
+    "depends": {
+        "d3js": "http://d3js.org/"
+        },
+    "author": "Aram Avila-Herrera",
+    "email": "aavilahe@users.noreply.github.com"
+}
