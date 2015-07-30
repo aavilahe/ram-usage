@@ -1,5 +1,7 @@
 # ram-usage
 
+![screenshot](./screenshot.png)
+
 An [uebersicht](http://tracesof.net/uebersicht/)
 widget that displays ram usage as a 
 bar chart using the [D3](http://d3js.org/) library.
